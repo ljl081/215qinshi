@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#image1{
+	position: relative;
+}
+#image1image1{
+	position: absolute;
+	width: 100%;
+}
+#image1word1{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 50px;
+	font-size: 20px;
+	color: aliceblue;
+}
+#image1word0{
+	position: absolute;
+	margin-top: 20px;
+	font-size: 60px;
+	color: aliceblue;
+	font-family: "华文隶书";
+}
+#image1word2{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 500px;
+	font-size: 20px;
+	color: aliceblue;
+}
+#image1word3{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 900px;
+	font-size: 20px;
+	color: aliceblue;
+}
+#image2{
+	position: absolute;
+	margin-top: 900px;
+	width: 100%;
+}
+#image2image1{
+	width: 100%;
+}
+#image2word1{
+	position: absolute;
+	margin-top: -700px;
+	font-size: 20px;
+	margin-left: 20px;
+	color: aliceblue;
+	width: 400px;
+}
+#image2word2{
+	position: absolute;
+	margin-top: -450px;
+	font-size: 20px;
+	margin-left: 20px;
+	color: aliceblue;
+	width: 400px;
+}
+#image2word3{
+	position: absolute;
+	margin-top: -100px;
+	font-size: 60px;
+	margin-left: 1300px;
+	color: aliceblue;
+	font-family: "方正舒体";
+	background-image: url(../image/bk2.jpg);
+}

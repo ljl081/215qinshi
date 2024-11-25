@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#image1{
+	position: absolute;
+	width: 100%;
+	
+}
+#image1image1{
+	position: absolute;
+	width: 100%;
+}
+#image1word1{
+	position: absolute;
+	margin-top: 10px;
+	font-family: "华文隶书";
+	font-size: 60px;
+	width: 300px;
+	height: 70px;
+	color: aliceblue;
+	background-image: url(../image/bk2.jpg);	
+}
+#image11{
+	position: absolute;
+	margin-top: 100px;
+}
+#image2{
+	width: 100%;
+	position: absolute;
+	margin-top: 900px;
+}
